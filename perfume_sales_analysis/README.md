@@ -1,15 +1,10 @@
-Welcome to your new dbt project!
+## Project: Perfume Sales Analysis
 
-### Using the starter project
+### Analytical Layer Architecture
+* Data Warehousing - snowflake
+* Data Transformation - DBT
+* Data Visualization - Looker
 
-Try running the following commands:
-- dbt run
-- dbt test
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
